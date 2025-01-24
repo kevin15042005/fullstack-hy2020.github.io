@@ -528,7 +528,7 @@ Te recomendamos leer inmediatamente [Una re-introducción a JavaScript (tutorial
 
 Si deseas conocer JavaScript en profundidad, hay una gran serie de libros gratuitos en Internet llamada [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS).
 
-Otro gran recurso para aprender JavaScript es [javascript.info](https://es.javascript.info/).
+Otro gran recurso para aprender JavaScript es [javascript.info](https://es.javascript.info/). o https://github.com/Asabeneh/30-Days-Of-JavaScript.git
 
 El libro gratuito [Eloquent JavaScript](https://eloquentjavascript.net) te lleva desde los conceptos básicos hasta temas interesantes rápidamente. Es una mezcla de teoría, proyectos y ejercicios, y abarca tanto la teoría general de programación como el lenguaje JavaScript.
 
